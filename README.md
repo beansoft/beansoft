@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Changjiong Liu, a FullStack Java Senior Developer @[pilipa](https://github.com/pilipa-cn).
+
+- 🔭 Currently working at Beijing
+- 📫 Reach me: beansoft@126.com wechat: weblogic
+- 🎤 I speak: Java, React, Kotlin, Golang
+- 💗 I love: Functional Programming
+- ⚡ Actively maintaining three intelliJ plugins: 🌈[VisualGC IDEA](https://github.com/beansoftapp/visualgc_java8/) and 🌈[React Native Console](https://github.com/beansoftapp/react-native-console/) and 🌈[Flutter Storm](https://plugins.jetbrains.com/plugin/14718-flutter-storm/)
