@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Changjiong Liu, a FullStack Java Senior Expert @[pilipa](https://github.com/pilipa-cn).
+I'm Changjiong Liu, a FullStack Java Expert @[pilipa](https://github.com/pilipa-cn).
 
 - 🔭 Currently working at Beijing
 - 🌱 Currently learning Kafaka, Disruptor
