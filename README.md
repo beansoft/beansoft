@@ -1,7 +1,7 @@
 ## Hi 👋
 
 <!--
-**beansoftapp/beansoftapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**beansoft/beansoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Changjiong Liu, a FullStack Java Expert.
+I'm Jacky Liu, a FullStack Java Expert.
 
 - 🔭 Currently working at Beijing
 - 🌱 Currently learning Kafaka, Disruptor
