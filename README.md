@@ -21,6 +21,6 @@ I'm Jacky Liu, a FullStack Java Expert.
 - 📫 Reach me: beansoft@126.com wechat: weblogic
 - 🎤 I speak: Java, React, Kotlin, Golang
 - 💗 I love: Programming and Gaming
-- ⚡ Actively maintaining three intelliJ plugins: 🧩[VisualGC IDEA](https://github.com/beansoftapp/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoftapp/react-native-console/) and 🧩[Flutter Storm](https://plugins.jetbrains.com/plugin/14718-flutter-storm/)
+- ⚡ Actively maintaining three intelliJ plugins: 🧩[VisualGC IDEA](https://github.com/beansoft/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[Flutter Storm](https://plugins.jetbrains.com/plugin/14718-flutter-storm/)
 - 😄 Download all my IDEA plugins@ https://plugins.jetbrains.com/organization/BeanSoft
 
