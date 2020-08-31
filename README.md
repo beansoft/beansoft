@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm Jacky Liu, a FullStack Java Expert.
 
 - 🔭 Currently working at Beijing
-- 🌱 Currently learning Kafaka, Disruptor
-- 📫 Reach me: beansoft@126.com wechat: weblogic
+- 🌱 Currently learning ELK, Disruptor, IDEA source code
+- 📫 Reach me: beansoft@126.com
 - 🎤 I speak: Java, React, Kotlin
 - 💗 I love: Programming and Gaming
 - ⚡ Actively maintaining three intelliJ plugins: 🧩[VisualGC IDEA](https://github.com/beansoft/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[FL Storm](https://plugins.jetbrains.com/plugin/14718-fl-storm/) (former Flutter Storm)
