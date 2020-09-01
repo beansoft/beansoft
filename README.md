@@ -24,3 +24,4 @@ I'm Jacky Liu, a FullStack Java Expert.
 - ⚡ Actively maintaining three intelliJ plugins: 🧩[VisualGC IDEA](https://github.com/beansoft/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[FL Storm](https://plugins.jetbrains.com/plugin/14718-fl-storm/) (former Flutter Storm)
 - 😄 Download all my IDEA plugins@ https://plugins.jetbrains.com/organization/BeanSoft
 
+![Vistor](https://visitor-badge.glitch.me/badge?page_id=beansoft)
