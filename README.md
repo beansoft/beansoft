@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Currently learning Flutter and IDEA plugin development
 -->
 I'm Jacky Liu, a full stack developer.
 
 - 🔭 Currently working at Beijing
-- 🌱 Currently learning Flutter and IDEA plugin development
 - 📫 Reach me: beansoft@126.com
 - 🎤 I speak: Java, React, Kotlin, Node.js, Go
 - 💗 I love: Programming and Gaming
