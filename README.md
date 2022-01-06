@@ -21,7 +21,7 @@ I'm Jacky Liu, a full stack developer.
 - 📫 Reach me: beansoft@126.com
 - 🎤 I speak: Java, Flutter, Kotlin
 - 💗 I love: Programming and Gaming
-- ⚡ Actively maintaining three intelliJ plugins: 🧩[VisualGC IDEA](https://github.com/beansoft/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[Fluter Storm](https://github.com/beansoft/flutter-storm-support) (Flutter plugin for WebStorm)
+- ⚡ Actively maintaining four IntelliJ plugins: 🧩[Notes](https://plugins.jetbrains.com/plugin/17501-notes)🧩[VisualGC](https://github.com/beansoft/visualgc_java8/) and 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[Fluter Storm](https://github.com/beansoft/flutter-storm-support) (Flutter plugin for WebStorm)
 - 😄 Download all my IDEA plugins@ https://plugins.jetbrains.com/organization/BeanSoft
 
 ![Vistor](https://visitor-badge.glitch.me/badge?page_id=beansoft)
