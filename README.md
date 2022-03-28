@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![beansoft's github stats](https://github-readme-stats.vercel.app/api?username=beansoft&show_icons=true&theme=dark)](https://github.com/beansoft)
 
 I'm Jacky Liu, a full stack developer.
-
+<!-- 
 - 🔭 Currently working at Beijing
 - 📫 Reach me: beansoft@126.com
-- 🎤 I speak: Java, Flutter, Kotlin
-- 💗 I love: Programming and Gaming
+- 🎤 I speak: Java, Kotlin, React
+- 💗 I love: Programming and Gaming -->
 - ⚡ Actively maintaining four IntelliJ plugins: 🧩[Notes](https://plugins.jetbrains.com/plugin/17501-notes)🧩[VisualGC](https://github.com/beansoft/visualgc_java8/) 🧩[React Native Console](https://github.com/beansoft/react-native-console/) and 🧩[Fluter Storm](https://github.com/beansoft/flutter-storm-support) (Flutter plugin for WebStorm)
 - 😄 Download all my IDEA plugins@ https://plugins.jetbrains.com/organization/BeanSoft
 
