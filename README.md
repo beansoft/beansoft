@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 Currently learning Flutter and IDEA plugin development
 -->
+[![beansoft's github stats](https://github-readme-stats.vercel.app/api?username=beansoft&show_icons=true&theme=dark)](https://github.com/beansoft)
+
 I'm Jacky Liu, a full stack developer.
 
 - 🔭 Currently working at Beijing
